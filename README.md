@@ -12,7 +12,7 @@ This is a simple Health Symptoms Tracker application built using Python and Post
 
 
 # Requirements
-. Python 3.x
+. Python3
 . PostgreSQL
 . psycopg2 (for connecting to PostgreSQL)
 

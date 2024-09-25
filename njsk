@@ -1,0 +1,12 @@
+Symptoms
+ID,Name,Severity,Date,Notes
+4,headache,8,2004-06-07,no
+5,king,10,2005-07-08,crucial
+2,cholera,6,1998-09-08,no
+7,kish,9,2004-09-09,opp
+6,zerp,9,3006-09-08,kis
+9,name,9,2003-08-07,no
+
+Conditions
+ID,Name,Description
+3,headache,paning
